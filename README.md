@@ -1,4 +1,4 @@
-# Web_GUCHMA
+# Web_GUCHEMA
 RUNTEQ卒業制作
 ■サービス概要
 どんなサービスなのかを３行で説明してください。
